@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Editor
+.vscode/
+
+# Data (not included in repo)
+data/
+
+# Checkpoints / run outputs
+mamba_checkpoint/
+patchtst_checkpoint/
+joint_*_pretrain/
+results_*/
+*.ckpt
+*.pt
+*.pth
+
+# Large data files
+*.h5
+*.hdf5
+*.nii
+*.nii.gz

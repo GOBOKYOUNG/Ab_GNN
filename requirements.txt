@@ -1,0 +1,15 @@
+# Python 3.11, CUDA GPU required (mamba-ssm)
+torch
+pytorch-lightning
+dgl
+mamba-ssm
+causal-conv1d
+numpy
+pandas
+scipy
+scikit-learn
+h5py
+nibabel
+brainspace
+matplotlib
+tqdm
